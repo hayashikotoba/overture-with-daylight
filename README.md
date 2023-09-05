@@ -92,9 +92,9 @@ Read the full source here: https://github.com/OvertureMaps/overture-with-dayligh
 
 
 ### Running Locally
-This demo uses `[pmtiles](https://github.com/protomaps/PMTiles)`, so you will need a local http server that can support byte range requests with cors.
+This demo uses [pmtiles](https://github.com/protomaps/PMTiles), so you will need a local HTTP server that can support byte-range requests with CORS.
 
-On a mac, you can run `http-server --cors .` from the `docs` directory after installing http-server:
+On a Mac, you can run `http-server --cors .` from the `docs` directory after installing http-server:
 `brew install http-server`). Then open http://127.0.0.1
 
 ### Licensing
